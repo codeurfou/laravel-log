@@ -188,6 +188,9 @@ class Log
         $message = $this->concatTitleAndLines();
 
         $this->log->write($this->level,$message);
+
+        $this->title = '';
+        $this->line = '';
     }
     /**
      * Concar the message with the title and lines
