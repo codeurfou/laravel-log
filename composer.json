@@ -1,5 +1,5 @@
 {
-    "name": "edujugon/laravel-log",
+    "name": "codeurfou/laravel-log",
     "description": "Simple API to write logs for Laravel.",
     "keywords": ["log","laravel","Monolog"],
     "license": "MIT",
